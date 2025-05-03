@@ -14,7 +14,7 @@ This achievement reflects the collective effort of our team, collaborators, ment
 - [Le Serre dei Giardini](https://leserredeigiardini.it)
 - [ECOSISTER](https://ecosister.it)
 
--![EuroGreenTechnology Logo](images/eurogreen-logo.png)
+-!![EuroGreenTechnology Logo](images/Arter.jpg)
 Together, let's build a greener future! 🌍
 
  #EuroGreenTechnology #ECOSISTER #Sustainability #Innovation #Startups #AgriTech #Biomaterials
